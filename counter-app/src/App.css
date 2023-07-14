@@ -1,0 +1,25 @@
+header{
+  margin-left: 45%;
+  padding: auto;
+
+
+}
+h2{
+  padding-left: 10%;
+}
+
+button{
+  background-color: white;
+  border-radius: 3px;
+  margin-left: 10px;
+  cursor: pointer;
+  margin-left: 3%;
+  padding: auto;
+
+}
+
+button:hover{
+  background-color: rgb(33, 33, 59);
+  color: white;
+
+}
